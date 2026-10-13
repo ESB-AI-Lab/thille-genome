@@ -138,16 +138,4 @@ PCA/admixture (K = 3) were run in the assembly working directory and are added b
 | `figure_legends.py` | Figure text into the manuscript | `manuscript/build_scripts/figure_legends.py` |
 | `build_latex.py` | LaTeX main and supplemental PDFs | `manuscript/build_scripts/build_latex.py` |
 
-## Not copied
-
-| Script(s) | Reason |
-|---|---|
-| `AA_*/`, `AB_*/`, `BA_*/`, `BB_*/` per-comparison copies, `stack_graphs.py`, `covfiles/` scripts, `test/` | legacy per-directory versions and contig-level scripts from an earlier Hass assembly, replaced by `plot_gene_stacks.py` |
-| `scripts/make_coverage_figures_v4.sh`, `scripts/sbatch_coverage_figures_v4.sh` | earlier renders with text inside the figures; replaced by the `_notext` drivers |
-| `scripts/make_fst_coverage_figures.sh`, `scripts/make_pigment_coverage_figures.sh` | v3 assembly drivers, replaced by the v4 driver |
-| `scripts/sdmyb_haplotypes.py`, `scripts/sdmyb_cds_variants.py`, `scripts/sdmyb_cosine.py`, `scripts/plot_sdmyb_matrix.py` | first SDMYB reconstruction, superseded by the general allele pipeline (`07_alleles`) |
-| `scripts/export_genes_info.py` | one-off provenance helper (gene lists of the legacy scripts to BED) |
-| `manuscript/build_scripts/build_v*.py` | document editing history (docx versions), not analyses |
-| `bash_download.sh` | file transfer from Bridges-2 |
-
 
