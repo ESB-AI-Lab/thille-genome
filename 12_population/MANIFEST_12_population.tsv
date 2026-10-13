@@ -1,0 +1,13 @@
+copy	origin
+puebla_pca/sbatch_panel_pca.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_panel_pca.sh
+puebla_pca/sbatch_panel_pca2.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_panel_pca2.sh
+puebla_pca/sbatch_panel_pca_scf.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_panel_pca_scf.sh
+puebla_pca/make_sites_pub.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/make_sites_pub.sh
+puebla_pca/sbatch_sites_union_scf.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_sites_union_scf.sh
+puebla_pca/sbatch_align_puebla_gwen.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_align_puebla_gwen.sh
+puebla_pca/sbatch_align_controls.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_align_controls.sh
+puebla_pca/sbatch_align_scaffolds.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_align_scaffolds.sh
+puebla_pca/sbatch_genotype.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_genotype.sh
+puebla_pca/sbatch_genotype_scf.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_genotype_scf.sh
+puebla_pca/project.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/project.py
+puebla_pca/sbatch_project.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/puebla_pca/sbatch_project.sh

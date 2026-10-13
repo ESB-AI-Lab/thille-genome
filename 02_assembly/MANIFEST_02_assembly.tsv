@@ -1,0 +1,16 @@
+copy	origin
+hifiasm/sbatch_hifiasm-hic.sh	/epool/edwin/pamericana/avoflow/hifiasm/thille/hifi.hic.gcluster/sbatch_hifiasm-hic.sh
+hifiasm/bash_gfa2fasta.sh	/epool/edwin/pamericana/avoflow/hifiasm/thille/hifi.hic.gcluster/bash_gfa2fasta.sh
+yahs/sbatch_bwamem.sh	/epool/edwin/pamericana/avoflow/hifiasm/thille/hifi.hic.gcluster/sbatch_bwamem.sh
+yahs/sbatch_yahs.sh	/epool/edwin/pamericana/avoflow/hifiasm/thille/hifi.hic.gcluster/sbatch_yahs.sh
+chr8_curation/sbatch_jbat.sh	/epool/edwin/pamericana/avoflow/hifiasm/thille/hifi.hic.gcluster/yahs_thille.hifiv3.asm.hic.p_ctg.curation/sbatch_jbat.sh
+chr8_curation/sbatch_map_hifi_yahs.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/curation/chr8/sbatch_map_hifi_yahs.sh
+naming/sbatch_align_lowland.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/curation/naming/sbatch_align_lowland.sh
+naming/name_by_lowland.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/curation/naming/name_by_lowland.py
+stats/sbatch_hic_seqkit.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/stats/sbatch_hic_seqkit.sh
+merqury/sbatch_merqury.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/merqury/sbatch_merqury.sh
+merqury/run_merqury.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/merqury/run_merqury.sh
+busco/sbatch_busco.sh	/epool/edwin/pamericana/avoflow/annotation/tiberius/thille.hic/sbatch_busco.sh
+busco/run_busco_local_2026-10-04.sh	/epool/edwin/pamericana/avoflow/annotation/tiberius/thille.hic/run_busco_local_2026-10-04.sh
+busco/busco_plot.py	/epool/edwin/pamericana/avoflow/annotation/tiberius/thille.hic/busco_plot.py
+annotation_stats/density_stats.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/compare/v4/density_stats.py

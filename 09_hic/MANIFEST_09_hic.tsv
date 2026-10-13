@@ -1,0 +1,12 @@
+copy	origin
+hic/make_chromsizes.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/hic/make_chromsizes.py
+hic/sbatch_hic_v4.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/hic/sbatch_hic_v4.sh
+hic/sbatch_cool_v4.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/hic/sbatch_cool_v4.sh
+hic/sbatch_balance_variants_v4.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/hic/sbatch_balance_variants_v4.sh
+hic/plot_contacts.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/hic/plot_contacts.py
+hic/sbatch_chr12_profile.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/hic/v4/chr12_start/sbatch_chr12_profile.sh
+centromere/sbatch_trf_v4.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/centromere/sbatch_trf_v4.sh
+centromere/sbatch_trf_windows.sh	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/centromere/sbatch_trf_windows.sh
+centromere/merge_trf_windows.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/centromere/merge_trf_windows.py
+centromere/call_centromeres.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/centromere/call_centromeres.py
+centromere/resolve_centromeres.py	/epool/edwin/pamericana/avoflow/assemblies/thille.hic/centromere/resolve_centromeres.py

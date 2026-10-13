@@ -1,2 +1,0 @@
-selected_genes ../symlinks/GCA_029852735.1_ASM2985273v1_genomic.UoQ.fasta UoQ
-selected_genes ../symlinks/thille.hifiv3.asm.p_ctg.softmasked.fasta Thille

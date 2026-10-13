@@ -1,2 +1,0 @@
-../symlinks/jg63228_SPA1.gtf SPA1
-../symlinks/jg92492_VOZ1.gtf VOZ1
