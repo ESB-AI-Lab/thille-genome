@@ -86,8 +86,6 @@ PCA/admixture (K = 3) were run in the assembly working directory and are added b
 | `florid_screen/gather_gene_evidence.py` | FLOR-ID screen input: per-gene evidence table (results/final_candidates/evidence_long.tsv) | `/epool/edwin/pamericana/gwen/annotation/fstpeaksearch/scripts/gather_gene_evidence.py` (fstpeaksearch 763b601) |
 | `florid_screen/flowering_screen.py` | FLOR-ID screen of the top 1% Fst genes (T1 FLOR-ID, T2 GO incl. light signalling, T3 keywords); results/final_candidates/screen.tsv, screen_v2.tsv; FLOR-ID list reference/florid/florid_flowering_genes.tsv; methods docs/methods_flowering_genes_v1.md | `/epool/edwin/pamericana/gwen/annotation/fstpeaksearch/scripts/flowering_screen.py` (commits 44430c1, 00dee42) |
 | `cluster_te_sv.py` | TE and SV density at the candidate clusters | `scripts/cluster_te_sv.py` |
-| `snp_markers/sbatch_blastn_snps_thille.sh` | Flowering SNP markers (SHRSPa) placed on Thille v4 by BLASTn; assembly changed from `thille.hifiv3.asm.p_ctg.fasta` to `thille.hifiv4.asm.hic.scaffold.chr.only.fasta` (Edwin, 2026-10-13), otherwise identical | `old/SNP_markers/sbatch_blastn_snps_thille.sh` |
-| `snp_markers/sbatch_blastn_snps_UoQ.sh` | Flowering SNP markers placed on Hass (GCA_029852735.1) by BLASTn | `old/SNP_markers/sbatch_blastn_snps_UoQ.sh` |
 
 ## 07_alleles: Alleles of the candidate genes
 
@@ -137,5 +135,3 @@ PCA/admixture (K = 3) were run in the assembly working directory and are added b
 | `write_figure_legends.py` | Figure text md files | `scripts/write_figure_legends.py` |
 | `figure_legends.py` | Figure text into the manuscript | `manuscript/build_scripts/figure_legends.py` |
 | `build_latex.py` | LaTeX main and supplemental PDFs | `manuscript/build_scripts/build_latex.py` |
-
-

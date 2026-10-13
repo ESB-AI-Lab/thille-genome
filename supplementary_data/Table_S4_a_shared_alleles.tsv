@@ -1,0 +1,7 @@
+gene	a_shared_allele	aa_changes	in_lowland_wi	carriers	fst_contig_rank	fst_scaffold_rank	top1pct	note
+SDMYB	SDMYB^b	N7S, D65G, S139G, D144N, T158I, T163M, A167T, S170N; frameshift from codon 183	no	Gwen h2;Hass h2;Puebla h2	138 (0.283)	157 (0.293)	both	
+AGAMOUS-like	AGAMOUS-like^c	1 bp deletion at CDS position 5; frameshift, stop at codon 21	no	Gwen h2;Hass h2;Puebla h2	274 (0.222)	765 (0.173)	contig	
+CSU2	CSU2^d	synonymous only	no	Gwen h1;Hass h1;Puebla h1	719 (0.168)	326 (0.224)	scaffold	
+NPR5-BOP2	NPR5-BOP2^d	V272A, I359V	no	Gwen h2;Hass h1;Puebla h1	1,925 (0.123)	124 (0.316)	scaffold	
+SGRL	SGRL^d	S5Y, I101V	no	Gwen h1;Hass h1;Puebla h1	11,968 (0.056)	22,445 (0.033)	none	
+LCYB	LCYB^d	L17V, E22G, D464E	no	Gwen h2;Hass h1;Puebla h1	5,297	5,869	none	
